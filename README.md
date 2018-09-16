@@ -1,6 +1,5 @@
 # What's-your-streak-challange
 
-## AIM:
 In this challenge, you have to create a single page application every day as long as you can. The last day when you skip a day will decide your streak. The app can be simple that take just an hour or less, or can be complex but can be completed within 24hours. The goal is to commit your app every day on git. And remember it's ok to take a break, don't stress out deploying the app. Be awesome and happy coding.
 
 ## Benfits:
