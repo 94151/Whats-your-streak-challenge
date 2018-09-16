@@ -20,4 +20,4 @@ In this challenge, you have to create a single page application every day as lon
 Tag me on social media to get a shout out.
 * Twitter [@gyan_university](https://twitter.com/gyan_university)
 * Instagram [@gyan_university](https://www.instagram.com/gyan_university/)
-* Youtube (Gyanuniversity)[https://www.youtube.com/channel/UCzFU4dsDRuPId4GJhhdkvkQ]
+* Youtube [Gyanuniversity](https://www.youtube.com/channel/UCzFU4dsDRuPId4GJhhdkvkQ)
