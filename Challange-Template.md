@@ -2,7 +2,7 @@
 I pledge to make a single page application every day till the best I can. I will also learn new stuff by checking the documentation and doing research for my apps.
 
 ### Current Streak:
-+ Streak counter: (your streak in number)
+* Streak counter: (your streak in number)
 * Starting date: (starting date)
 * Last commit date: (last commit date)
 
