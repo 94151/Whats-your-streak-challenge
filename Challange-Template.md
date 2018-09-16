@@ -2,9 +2,9 @@
 I pledge to make a single page application every day till the best I can. I will also learn new stuff by checking the documentation and doing research for my apps.
 
 ### Current Streak:
-Streak counter: (your streak in number)
-Starting date: (starting date)
-Last commit date: (last commit date)
++ Streak counter: (your streak in number)
+* Starting date: (starting date)
+* Last commit date: (last commit date)
 
 ## My project's list:
 * [App name3](Git repo link for app) --> [AppName3 Live Demo](app codepen link) 
