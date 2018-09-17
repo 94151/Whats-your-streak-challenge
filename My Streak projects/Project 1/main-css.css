@@ -1,0 +1,15 @@
+body{
+      background: linear-gradient(to right, #305865 0%, #753c49 100%);
+}
+
+#time{
+  font-size: 140px;
+  background: linear-gradient(to right, #8a5e6c 0%, #305865 100%);;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: 'Indie Flower', cursive;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
