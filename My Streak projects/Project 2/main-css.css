@@ -1,0 +1,24 @@
+.box{
+  margin:40px 100px;
+  text-align:center;
+  border:1px solid black
+  padding:20px;
+}
+
+#survey-form{
+  font-size:20px;
+	width:30vw;
+    margin-left:25vw;
+    text-align: left;
+}
+
+.btn{
+	width: 100%;
+}
+@media only screen and (max-width: 800px) {
+   #survey-form{
+	  width:100%;
+    margin-left:0;
+    
+  }
+}
